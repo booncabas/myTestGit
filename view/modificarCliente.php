@@ -31,14 +31,14 @@ $cliente=$_SESSION['clienteModi'];
                     Apellidos:<input type="text" name="apellidos" maxlength="50" required="true" value="<?php echo $cliente->getApellidos();?>">
                     Nombres:<input type="text" name="nombres" maxlength="50" required="true" value="<?php echo $cliente->getNombres();?>">
                     Direccion:<input type="text" name="direccion" maxlength="100" value="<?php echo $cliente->getDireccion(); ?>">
-                    <input type="submit" class="btn btn-warning" value="Modificar">
+                    <input type="submit" class="btn " value="Modificar">
                 </form>
             </p>
             <p>
                 <form action="../controller/controller.php">
                     <input type="hidden" name="opcion" value="eliminar_clienteModi">
                     <input type="hidden" name="cedula" value="<?php echo $cliente->getCedula(); ?>">
-                    <input type="submit" class="btn btn-danger" value="Eliminar Cliente">
+                    <input type="submit" class="btn " value="Eliminar Cliente">
                 </form>
             </p>
 
