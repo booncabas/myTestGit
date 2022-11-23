@@ -61,7 +61,7 @@ $facturaCab=$_SESSION['facturaCab'];
         <thead>
             <tr>
                 <th>ID PRODUCTO</th>
-                <th>NOMBRE</th>
+                <th>NOMBREEE</th>
                 <th>PRECIO</th>
                 <th>CANTIDAD</th>
                 <th>IVA</th>
