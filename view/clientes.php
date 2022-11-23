@@ -58,7 +58,7 @@ session_start();
                             echo "</tr>";
                         }
                     } else {
-                        echo "No se han cargado datos.";
+                        echo "No se han cargado datos.gggggggggg";
                     }
                     ?>
                 </tbody>
