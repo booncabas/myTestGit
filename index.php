@@ -17,7 +17,7 @@ session_start();
         <div class="container">
             <img src="view/images/banner-facturacion.jpg">
             <div class="row">
-                <h2 align="center">Sistema de Facturación</h2>
+                <h2 align="center">Sistema de Facturación ggggg</h2>
             </div>
             <div class="row">
                     <table width="507" border="1" align="center">
