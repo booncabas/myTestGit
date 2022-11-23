@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php
 require_once '../model/Cliente.php';
+// test change 2
 session_start();
 ?>
 <html>
